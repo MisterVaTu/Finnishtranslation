@@ -1,0 +1,182 @@
+﻿Saavutettavuus# UI
+
+(Cannot hold until ship has landed)=(Et voi pitää kädessä ennen kuin alus on laskeutunut.)
+(Dead)=(Kuollut)
+(Requires battery-powered item)=(Vaatii paristokäyttöisen laitteen.)
+(Spectating: )=(Katsotaan pelaajaa: )
+[LIFE SUPPORT: OFFLINE]=[Uuteen laskuun]
+
+# A-M
+Alert! The autopilot is leaving due to dangerous conditions.=HÄLYTYS! Automaattiohjaus lähtee vaarallisten olosuhteiden takia!
+ALERT!=VAROITUS!
+An error occurred!=Tapahtui virhe!
+An error occured!=Tapahtui virhe!
+
+Blast=Räjähdys
+bludgeoning=Murskaava
+BROADCASTED SPECIAL CODE=LÄHETETTY ERIKOISKOODI
+Buy flashlights and travel to new planets!=Hanki taskulamput ja matkusta uusille planeetoille!
+Boss=Pomo
+
+Can't stay closed forever=Ei voi pysyä suljettuna ikuisesti....
+Change suit=Vaihda asua
+Change: Green suit=Vaihda: Viherpuku
+Change: Hazard suit=Vaihda: Säteilypuku
+Change: Pajama suit=Vaihda: Pyjamapuku
+Confirm changes?=Vahvista muutokset?
+Continue=Jatka
+Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Yhteyttä STEAM-palvelimiin ei voitu muodostaa! (Jos haluat pelata vain paikallisverkossa, valitse LAN-käynnistys.)
+CREW:=Nugetit:
+CRITICAL INJURY=Kriittinen isku
+
+DEADLINE:\n NOW=MÄÄRÄAIKA\n NYT
+Door controls=Oven hallinta
+DOOR HYDRAULICS:=OVIHYDRAULIIKKA
+Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Pudota metalliesineesi! Staattinen varaus on havaittu. Sinulla on sekunteja jäljellä elinaikaa.
+
+EMPLOYEE RANK=Arvoasteikko
+Employee=Työntekijä
+Error! Could not get the lobby data. Are you offline?=Virhe! Ei voitu hakea aulatietoja. Oletko offline-tilassa?
+
+Fines=Sakot
+
+Got scrap!=Sain romua!
+Gunshots=Laukauksia
+
+HALT!=SEIS!
+HANDS FULL=KÄDET TÄYNNÄ
+
+Intern=Harjoittelija
+Inventory full!=Kädet täynnä!
+Item collected!=Esine kerätty!
+
+Lands the ship.=Voit laskea aluksen.
+Leader=Johtaja
+Locked=Lukittu
+LOADING WORLD...=LADATAAN MAAILMAA... 
+Loading server list...=Ladataan palvelinlistaa...
+
+Mauling=Ryöstö
+* The most profitable=* Tuottoisin
+
+# N-Z
+New creature data sent to terminal!=Uutta olentotietoa tietopankissa!
+NEW PROFIT QUOTA:=UUSI TAVOITE:
+None=Ei mitään
+Notes: \n=Muistiinpanot: \n
+Notes:=Muistiinpanot:
+
+Option A=Vaihtoehto A
+Paycheck!=Palkka!
+PERFORMANCE REPORT=SUORITUSRAPORTTI
+Picking lock: (.+) sec.=Avataan lukkoa: $1 sek.
+PILOT COMPUTER=Lautakunta
+
+
+Player=Pelaaja
+Press "/" to talk.=Paina '/' puhuaksesi.
+Price=Hinta
+PRIVATE means you must send invites through Steam for players to join.=YKSITYINEN tarkoittaa, että sinun on lähetettävä kutsut Steamin kautta pelaajille, jotta he voivat liittyä
+PUBLIC means your game will be visible on the server list for all to see.=JULKINEN tarkoittaa, että pelisi on näkyvissä palvelimen luettelossa kaikkien nähtävillä...
+Public=Julkinen
+Push to talk:=Paina puhuaksesi:
+
+QUOTA REACHED!=ONNISTUIT!
+Quota=Tavoite
+
+RECEIVING SIGNAL=SIGNAALI HAVAITTU
+
+r:"^(.*) \n AM"=Aamu $1
+r:"^(.*) \n PM"=Ilta $1
+r:"^(.*) EXP$"=$1 EXP
+r:"^(.*) FPS$"=FPS $1
+r:"^(.*)\nAM"=Aamu $1
+r:"^(.*)\nPM"=Ilta $1
+r:"^(.+?)joined the ship(.+?)$"=$1 Liittyi alukseen $2
+r:"^Player: (.+)"=(Pelaaja: $1)
+r:"^(.+) (Days|Day) Left$"=$1 Päivää
+r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 Uhrit:$2\n $3 Palautettu
+r:"^(.+) started the ship."=$1 Käynnisti aluksen.
+r:"^(.+) was left behind."=$1 Jätettiin jälkeen.
+r:"^([0-9]+) lb$"=$1 Kg
+r:"^(\$[0-9]+)\nDays: ([0-9]+)$"=$1\nPäivä: $2
+r:"^(Current input device: \n)(.*)$"=Nykyinen syöttölaitteisto:$2
+r:"^\(([0-9]+)/([0-9]+) Votes\)$"=($1/$2 Äänet)
+r:"^\(Spectating: (.+)\)$"=(Katsotaan: $1)
+r:"^\[Cooldown : (.+)s\]$"=[Toipumisaika : $1s]
+r:"^\[MODDED\](.+?)$"=[MODATTU]$1
+r:"^Body of (.+)$"=$1 Ruumis
+r:"^Casualties \((.+)\): (.+)$"=Uhrit ($1):$2
+r:"^CELESTIAL BODY: (.+?)$"=TAIVAANKAPPALE: $1
+r:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps taken: (.+?)$"=Päiviä työssä: $1\nKerätyn romun arvo: $2\nKuolemat: $3\nAskeleita: $4
+r:"^DEADLINE:\n([0-9]+) Days$"=MÄÄRÄAIKA $1 Päivä
+r:"^DUE: (\$[0-9]+)$"=SAKKO: $1
+r:"^File ([0-9]+)$"=Tall. $1
+r:"^MONITORING: (.+)$"=TARKKAILEE: $1
+r:"^Overtime bonus: (.+)$"=Ylityölisä: $1
+r:"^PROFIT QUOTA:\n(\$[0-9]+) / (\$[0-9]+)$"=TAVOITE:\n$1 / $2
+r:"^Random seed: ([0-9]+)$"=ARVOTTU SIEMEN: $1
+r:"^(.*)Random seed(.*)$"=ARVOTTU SIEMEN: $2
+r:"^SHIP: (.+)$"=ALUS: $1
+r:"^TOTAL: (.+)$"=Brutto: $1
+r:"^Value: (.+)"=ARVO: $1
+r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=VAROITUS!\n Palaa viimeistään $1. Ylilautakunta on tehnyt päätöksen, jota ei voi pysäyttää.
+
+Random seed: {{A}}=Arvottu siemen:{{A}}
+Random seed: =Arvottu siemen: 
+
+Sell scrap for cash.=Myy romua rahan takia.
+Ship leaving in one hour=Alus lähtee tunnin sisällä!
+
+sr:"^(.+?)collected!$"=$1 kerätty！
+sr:"^Cause of death: (.+)$"=Kuoleman syy: $1
+sr:"^Drop (.+?): \[G\]$"=Pudota $1: [G]
+sr:"^Spray : \[LMB\]$"=\nSuihkuta: [LMB]
+sr:"^Shake can : \[Q\]$"=\nRavista purkkia: [Q]
+sr:"^Found journal entry: (.+)$"=Löydetty päiväkirjamerkintä: $1 
+sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Muistiinpanot: \n* $1\n* $2\n* $3 \n* $4\n
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=Kierretään: $1\nVäestö: $2\nOlosuhteet: $3\nEläimistö: $4$5$6
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=Kierretään: $1\nVäestö: $2\nOlosuhteet: $3\nEläimistö: $4\nSää: $5
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)$"=Väestö: $1\nOlosuhteet: $2\nEläimistö: $3
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\n([\s\S]+)$"=Väestö: $1\nOlosuhteet: $2\nEläimistö: $3
+
+SPIDER=HÄMÄHÄKKI
+Stats=Tilastot
+Strangulation=Kuristautuminen
+Sustained the most injuries=Sai eniten vammoja
+SYSTEMS ONLINE=Uuteen nousuun!
+
+Tell autopilot ship to leave early : [RMB] (Hold)=Käske autopilotin lähteä : [RMB] (Pohjassa)
+Terminal=Tietokone
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Autopilotti yrittää nyt lentää lähimpään turvalliseen avaruusasemaan. Esineesi ovat menetetty.
+The Company must minimize risk of damage to proprietary hardware. Goodbye!=Yhtiön on minimoitava riski omistetun laitteiston vaurioitumisesta. Näkemiin!
+The file will NOT save! Your ship must be in orbit.=Tiedosto Ei tallennu! Aluksesi on oltava kiertoradalla.
+The laziest employee.=Laiskapaska.
+The host has not loaded or has already landed their ship.=Isäntä ei ole ladannut vielä tai hän on laskeutunut.
+The most paranoid employee.=Kaikista skitsofreenisin.
+TIP:=VINKKI:
+TO MEET PROFIT QUOTA=Tavoitteen saavuttamiseksi
+To sell, use the terminal to route the ship to the company building.=Myydäksesi, käytä tietokonetta ohjataksesi alus yrityksen luo.
+TOTAL:=Yht:
+Training manual=Koulutusopas
+Typing...=Kirjoittaa...
+
+Uncapped=Rajoittamaton
+Use the ship computer terminal to access secure doors.=Käytä aluksen tietokonepäätettä turvaovien avaamiseen
+Useful info!=Tietoa
+
+Value: ???=Arvo: ???
+VISIBILITY LOW!\n\nSteam leak detected in area=NÄKYVYYS HEIKKO!\n\nHöyryvuoto havaittu
+Voice volume=Äänenvoimakkuus
+Voted for ship to leave early=Äänesti aluksen aikaista lähtöä.
+
+Waiting for crew...=Ladataan...
+Waiting for input=Syötettä odotetaan
+Warning! No response from crew, which has not returned. Emergency code activated.=Varoitus! Ei vastausta miehistöltä, joka ei ole palannut. Hätäkoodi aktivoitu...
+WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=VAROITUS!!! Autopilottialus lähtee keskiyöllä. Palatkaa nopeasti.
+
+YOU ARE FIRED.=TEIDÄT ON EROTETTU
+You did not meet the profit quota before the deadline.=Ette pystyneet rahatavoitteeseen.
+You did not meet the profit quota before the deadline.=Ette pystyneet rahatavoitteeseen.
+You have landed in an eclipse. Exercise caution!=Olette laskeutuneet pimennykseen. Liikkukaa varoen!
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=Sinulla ei ole aikaa saavuttaa tavoitetta. Mene yrityksen luo.

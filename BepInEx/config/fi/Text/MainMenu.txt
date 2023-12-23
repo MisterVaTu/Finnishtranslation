@@ -1,0 +1,189 @@
+﻿# Main menu
+#TODO: Review and Standardize
+
+  CONFIRM=Varmista
+  CONFIRM=Varmista
+  DISABLED=Pois päältä
+  LAN=LAN
+  Online=Verkko
+(Recommended)=(Suositeltu)
+(Launched in LAN mode)=(Käynnistetty LAN-tilassa)
+[ Back ]=[ Peruuta ]
+[ Confirm ]=[ Varmista ]
+[ Continue ]=[ Jatka ]
+[ Refresh ]=[ Päivitä ]
+
+> Back to menu=> Poistu päävalikkoon
+> Back=> Takaisin
+> Cancel=> Peruuta
+> Confirm changes=> Vahvista muutokset
+> Confirm=> Vahvista
+> CONFIRM=> VAHVISTA
+> Credits=> Tekijät
+> Host=> Isännöi
+
+> Invite friends=> Kutsu ystäviä
+> Join a crew=> Liity miehistöön
+> LAN=> LAN
+> Online=> Verkko
+> Quit=> Lopeta
+> Reset all to default=> Palauta kaikki oletusasetuksiin
+> Resume=> Jatka
+> Settings=> Asetukset
+
+# A-M
+ACCESSIBILITY=SAATAVANA
+Arachnophobia Mode=Araknofobia-tila
+Adjust screen brightness until the symbol on the right is barely visible.=Säädä näytön kirkkautta, kunnes oikealla oleva symboli on tuskin näkyvissä.
+An error occured when syncing the scene! The host might not have loaded in.=Tapahtui virhe synkronoitaessa kohtausta! Isäntä saattaa olla vielä latautumatta
+Autosaving...=Autotallennus
+
+Back=Takaisin
+BACK=TAKAISIN
+
+> Change keybinds=> Muuta näppäinasetuksia
+CONFIRM= VAHVISTA
+Confirm=Vahvista
+CONTROLS=KONTROLLIT
+Cosmetics Enabled:=Kosmetiikka käytössä:
+Credits=Tekijät
+Crew Size:=Koko:
+
+Delete=Poista
+Discard changes=Hylkää muutokset
+Discard=Hylkää
+DISCARD=HYLKÄÄ
+Display mode:=Näyttötila:
+DISPLAY=NÄYTTÖ
+
+ENABLED=KÄYTÖSSÄ
+Enter a lobby name!=Syötä aulan nimi!
+
+Frame rate cap:=Kuvataajuuden rajoitus:
+Friends-only=Vain ystäville
+Fullscreen=Kokoruutu
+
+Gamma/Brightness:=Gamma/Kirkkaus:
+Go back=Palaa
+
+Host LAN Server:=Isännöi LAN-palvelinta:
+
+INSTABILITY:=EPÄVAKAUS:
+Invert Y-Axis=Käännä Y-akseli
+
+Join=Liity
+
+LAN= LAN
+LAUNCH MODE=KÄYNNISTYSTILA
+Loading...=Ladataan...
+Local-only=Vain paikallinen
+Look sensitivity:=Katseen herkkyys:
+
+Master volume:=Pää-äänen voimakkuus:
+Max players...=Maksimipelaajamäärä...
+Maximized window=Suurennettu ikkuna
+MODE: Push to talk=TILA: Puhu painamalla
+MODE: Voice activation=TILA: Ääniohjaus
+
+# N-Z
+Name your server...=Nimeä palvelimesi...
+
+Online=verkkopelaaminen
+
+r:"^Do you want to delete File (.+)\?$"=Haluatko poistaa tiedoston $1?
+
+Save File=Tallenna tiedosto
+Server name:=Palvelimen nimi:
+Servers=Palvelimet
+Sort: far=Järjestä: Kaukana
+Sort: near=Järjestä: Lähellä
+Sort: worldwide=Järjestä: Kaikki
+Started server, joining...=Aloitin palvelimen, liittymässä...
+
+The server host disconnected.=Palvelimen isäntä katkaisi yhteyden.
+
+Unconfirmed changes!=Vahvistamattomia muutoksia!
+Use monitor (V-Sync)=V-Sync
+
+Voice Volume=Äänenvoimakkuus
+
+Welcome!="Tervetuloa!
+Welcome! Version 45 is out now.\nOthers must update their game to play with you on this version.\n\n\nGood luck!=Tervetuloa! Versio 45 on nyt ulkona.\nMuiden täytyy päivittää pelinsä pelataksesi kanssasi tällä versiolla.\n\n\nOnnea matkaan!
+Version 45 is out!=Versio 45 on julkaistu!
+W=W
+Window=Ikkuna
+Windowed fullscreen=Koko ikkunatila
+Would you like to leave the game?=Haluatko poistua pelistä?
+
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=Olet LAN-tilassa. Kun sallit etäyhteydet LANin kautta, varmista, että sinulla on riittävä verkkoturvallisuus, kuten palomuuri ja/tai VPN
+
+#Rebind Controls
+Button East=Näppäin itä
+Button South=Näppäin etelä
+Button West=Näppäin länsi
+Button North=Näppäin pohjoinen
+
+Control=Ohjaus
+Crouch=Kyykisty
+
+D-Pad/Down=D-Pad/Alas
+D-Pad/Left=D-Pad/Vasemmalle
+D-Pad/Right=D-Pad/Oikealle
+D-Pad/Up=D-Pad/Ylös
+Dance=Tanssi
+
+Enable chat=Aktivoi chat
+Enter=Syötä
+
+Interact=Käyttää
+Item Secondary use=Tavaran toissijainen käyttö
+Item Tertiary use=Tavaran kolmas käyttö
+Item drop=Tavaran pudotus
+Item inspect=Tavaran tarkastelu
+Item primary use=Tavaran ensisijainen käyttö
+Item secondary use=Tavaran toissijainen käyttö
+Item switch left=Tavaran vaihto vasemmalle
+Item switch right=Tavaran vaihto oikealle
+Item tertiary use=Tavaran kolmas käyttö
+
+Jump=Hyppy
+
+Left Button=Vasen näppäin
+Left Shoulder=Vasen olkapää
+Left Stick Press=Vasen tikkupainike
+Left Stick/Down=Vasen tikku / Alas
+Left Stick/Left=Vasen tikku / Vasemmalle
+Left Stick/Right=Vasen tikku / Oikealle
+Left Stick/Up=Vasen tikku / Ylös
+Left Trigger=Vasen liipaisin
+
+Move back=Liiku taaksepäin
+Move forward=Liiku eteenpäin
+Move left=Liiku vasemmalle
+Move right=Liiku oikealle
+
+Ping scan=Ping-skannaus
+Point=Osoita
+Push to talk=Paina puhuaksesi
+
+REBIND CONTROLLERS=UUDELLEEN SYÖTÄ OHJAUKSET
+REMAP CONTROLS=MUOKKAA OHJAUKSIA
+Replace furniture=Vaihda kalusteita
+Right Button=Oikea näppäin
+Right Shoulder=Oikea olkapää
+Right Stick Press=Oikea tikkupainike
+Right Trigger=Oikea liipaisin
+
+Scroll/Down=Vieritä alas
+Scroll/Up=Vieritä ylös
+Shift=Shift
+Space=Space
+Sprint=Juokse
+Store furniture=Säilytä kalusteita
+Submit chat=Lähetä viesti
+Turn furniture=Käännä huonekaluja
+
+Walk back=Kävele taaksepäin
+Walk forward=Kävele eteenpäin
+Walk left=Kävele vasemmalle
+Walk right=Kävele oikealle

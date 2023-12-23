@@ -1,0 +1,26 @@
+﻿# Creatures
+#TODO: Review and Standardize
+
+Baboon hawk=Apinahaukka
+Bracken=Mustamies
+Bunker spider=Bunkkerihämähäkki
+Circuit bees=Piirimehiläiset
+Coil-head=Vieteri-pää
+Earth leviathan=Jättiliero
+Eyeless dog=Silmätön koira
+Flowerman=Mustamies
+Forest Giant=Metsäjätti
+Forest keeper=Metsäjätti
+Ghost girl=Kummitustyttö
+Hoarding bug=Hamstrausötökkä
+Hygrodere=Lima
+Jeb=Jaapo
+Jester=Hovinarri
+Landmine=Maamiina
+Manticoil=Haarahaukka
+Nutcracker=Pähkinänsärkijä
+Roaming locusts=Vaeltavat heinäsirkat
+Snare flea=Tuhatjalkainen
+Spore lizard=Itiölisko
+Thumper=Tömistelijä
+Turret=Tykki

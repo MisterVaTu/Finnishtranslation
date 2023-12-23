@@ -1,0 +1,6 @@
+{
+  "name": "VatusFinnishTranslation",
+  "version_number": "1.0.0",
+  "description": "[Translation] Suomi modi suomalaisille!",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}

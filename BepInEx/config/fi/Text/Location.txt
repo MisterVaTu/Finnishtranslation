@@ -1,0 +1,58 @@
+﻿# Location
+# TODO: Review and Standardize
+
+# Planets/moons
+21 Offense=Offenssi
+220 Assurance=Assuranssi
+31 March=Marchi
+41 Experimentation=Eksperimentaatio
+56 Vow=Vovi
+61 March=Marchi
+71 Gordion=Gordioni
+85 Rend=Rendi
+8 Titan=Titaani
+
+# A-M
+A competitive ecosystem supports aggressive lifeforms.=Kilpailullinen ekosysteemi tukee aggressiivisia eliölajeja.
+Abandoned=Hylätty
+Arid. Thick haze, worsened by industrial artifacts.=Kuiva ja tiheä ilmasto. Pahentunut ilmastoon päätyneistä jätteistä.
+
+Dangerous entities have been rumored to take residence in the vast network of tunnels.=Vaarallisten olentojen väitetään asuvan laajassa tunneliverkostossa.
+Diverse=Jakautunut monimuotoisesti.
+Dominated by a few species.=Muutaman lajin hallitsema.
+
+Eclipsed=Pimennys
+(Eclipsed)=(Pimennys)
+Ecosystem supports territorial behaviour.=Ekosysteemi tukee reviirikäyttäytymistä.
+Ecosystem supports territorial behaviour.=Ekosysteemi tukee reviirikäyttäytymistä.
+Expansive. Constant rain.=Laaja-alaista jatkuvaa sadetta.
+
+Flooded=Veden vallassa
+Foggy=Sumuinen
+Frozen, rocky. Its planet orbits a white dwarf star.=Jäässä ja kivinen. Planeetta kiertää valkeaa kääpiötähteä.
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Jäässä ja kivinen. Tätä kuuta louhittiin resurssien vuoksi. Täällä on helppo eksyä.
+
+HAZARD LEVEL:=VAARATASO:
+Home base=Tukikohta
+Humid. Rough terrain. Teeming with plant-life.=Maasto karkea ja kostea. Tulvii yli kasvillisuutta.
+
+Jagged and weathered terrain. =Maasto on eroosion takia rapistunut ja rikkoutunut.
+Jagged and weathered terrain.=Maasto on eroosion takia rapistunut ja rikkoutunut.
+
+Main entrance=Pääsisäänkäynti
+
+# N-Z
+No land masses. Continual storms.=Veden peittämä planeetta, jatkuvia myrskyjä.
+
+Oxygen critically low!=Hapenmäärä kriittisen alhainen!
+
+Rainy=Sateinen
+
+Safe=Turvallinen
+Stormy=Myrskyinen
+Stormy=Myrskyinen
+
+Unlikely for complex life to exist\n=Epätodennäköistä, että monimutkaista elämää voisi olla olemassa.
+Unknown=Tuntematon
+Unknown\nWhere the Company resides.\n=Sijainti tuntematon\nMissä Yhtiö sijaitsee
+Unlikely for complex life to exist.=Monimutkaisen elämän olemassaolo on epätodennäköistä.

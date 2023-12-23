@@ -1,0 +1,104 @@
+﻿# Interactive
+#TODO: Review and Standardize
+
+[Not holding items ]=[Kätesi ovat tyhjät]
+[Cannot pull valve]=[Ei voi vetää]
+[Hands full]=[Kädet täynnä]
+[Nothing to store]=[Ei esinettä]
+Pull cord: [E] =Vedä: [E]
+[Wait for ship to land]=[Odota]
+
+# A-M
+Access terminal : [E]=Käytä tietokonetta: [E]
+
+Beam up : [E]=Laukaise teleportteri: [E]
+
+Charge item : [E]=Lataa: [E]
+Climb : [E]=Kiipeä: [E]
+Close door : [E]=Sulje ovi: [E]
+Confirm: [B]   |   Rotate: [R]   |   Store: [X]=Vahvista: [B]  |   Käännä: [R]  |   Varastoi: [X]
+
+Disable speaker: [E]=Sammuta kaiutin: [E]
+
+Enter : [E]=Astu sisään: [E]
+Enter: [E]=Astu sisään: [E]
+Exit : [E]=Astu ulos: [E]
+Exit: [E]=Astu ulos: [E]
+
+Fire : [LMB]= Ammu: [LMB]
+Flip switch: [E]=Käännä: [E]
+Flush: [E]=Vedä: [E]
+
+Get log : [E]=Poimi: [E]
+Grab : [E]=Poimi: [E]
+Grab: [E]=Poimi: [E]
+
+Hit pumpkin : [E]=Hakkaa: [E]
+
+Inspect: [Z]=Tarkastele: [Z]
+
+Land ship : [E]=Laske alus: [E]
+Let go : [E]=Päästä irti: [E]
+Lift glass : [E]=Nosta: [E]
+
+# N-Z
+Open : [E]=Avaa: [E]
+Open door : [E]=Avaa ovi: [E]
+Open hatch : [E]=Avaa luukku : [E]
+Open: [E]=Avaa: [E]
+Open gift : [LMB]=Avaa lahja: [LMB]
+
+Place on door : [LMB]=Ripusta oveen: [LMB]
+Play record: [E]=Soita: [E]
+Pop up ladder : [LMB]=Putkauta esiin tikapuut: [LMB]
+Power button : [Q]=virtanäppäin: [Q]
+Pull pin : [LMB]=Vedä sokka: [LMB]
+Pull switch : [E]=Vedä vipua: [E]
+
+Quit terminal : [TAB]=Poistu tietokoneesta: [TAB]
+
+Reload : [E]=Lataa: [E]
+Ring bell: [E]=Soita: [E]
+
+Scan : [RMB]=skannaa: [RMB]
+Sell item : [E]=Myy esine: [E]
+Send voice : [LMB]=Käytä: [LMB]
+Set candles: [E]=Aseta: [LMB]
+Shake can : [Q]=Ravista: [Q]
+Sprint: [Shift]=Juokse: [Shift]
+Spray : [LMB]=Suihkuta: [LMB]
+Squeeze : [E]=Purista: [E]
+Start game : [E]=Aloita peli: [E]
+Start ship : [E]=Käynnistä alus: [E]
+Store item : [E]=Varastoi: [E]
+Swing shovel : [LMB]=Heilauta: [LMB]
+Swing sign : [LMB]=Heilauta: [LMB]
+Switch camera : [E]=Vaihda: [E]
+Switch lights : [E]=Paina: [E]
+
+Take TZP : [LMB]=Vedä kaasua: [LMB]
+Toggle light : [LMB]=Käytä: [LMB]
+Toggle laser : [LMB]=Käytä: [LMB]
+Toggle music : [LMB]=Käytä: [LMB]
+Turn on booster : [LMB]=Käynnistä: [LMB]
+Turn on/off : [E]=Paina: [E]
+Turn safety on: [Q]=Varmista: [Q]
+Turn safety off: [Q]=Poista varmistin: [Q]
+Turn page : [Q/E]=Käännä sivu: [Q/E]
+
+Use airhorn : [LMB]=Käytä: [LMB]
+Use cash register : [LMB]=Käytä: [LMB]
+Use door : [E]=Avaa: [E]
+Use grenade : [LMB]=Käytä: [LMB]
+Use hairdryer : [LMB]=Käytä: [LMB]
+Use DIY-Flashbang : [LMB]=Käytä: [LMB]
+Use horn : [LMB]=Käytä: [LMB]
+Use key : [LMB]=Käytä: [LMB]
+Use key : [LMB]=Käytä: [LMB]
+Use ladder : [E]=Käytä: [E]
+Use Large axle : [G]=Käytä: [G]
+Use remote : [LMB]=Käytä: [LMB]
+
+Walk : [W/A/S/D]=Kävele: [W/A/S/D]
+
+sr:"^(.+) \((.+)\) : (.+)\n$"=$1 ($2):$3

@@ -1,0 +1,237 @@
+﻿# Scrap & Items
+# TODO: Review and Standardize
+
+# A-C
+Airhorn =Ilmatorvi
+Airhorn=Ilmatorvi
+Ammo=Ammus
+Ammo =Ammus
+Apparatice =Reaktorinsydän
+Apparatice=Reaktorinsydän
+Apparatus =Reaktorinsydän
+Apparatus=Reaktorinsydän
+
+Bee hive=Mehiläispesä
+Bell =Kello
+Big bolt =Ruuvi
+Big Bolt =Ruuvi
+Big bolt=Ruuvi
+Big Bolt=Ruuvi
+Body =Ruumis
+Body=Ruumis
+Boombox =Kaiutin
+Boombox=Kaiutin
+Bottles =Pullokori
+Bottles=Pullokori
+Brake lever=Kytkin
+Brass bell =Messinkikello
+Brass bell=Messinkikello
+Brush =Kampa
+Brush=Kampa
+Bubblegum =Purukumi
+Bubblegum=Purukumi
+
+Candy =Karkki
+Candy=Karkki
+Cash register =Kassakone
+Cash register=Kassakone
+Charges batteries=Voit ladata pattereita
+Chemical jug =Kemikaalipytty
+Chemical jug=Kemikaalipytty
+clipboard =Leikepöytä
+clipboard=Leikepöytä
+Clown horn =Klovnitorvi
+Clown horn=Klovnitorvi
+Coffee mug=Kahvimuki
+Coffee mug =Kahvimuki
+Cog =Ratas
+Cog=Ratas
+Coil=Latauslevy
+Cookie mold pan =Keksimuottipannu
+Cookie Mold Pan =Keksimuottipannu
+Cookie mold pan=Keksimuottipannu
+Cookie Mold Pan=Keksimuottipannu
+
+# D-M
+
+Data chip =Datasiru
+Data chip=Datasiru
+Dentures =Tekohampaat
+Dentures=Tekohampaat
+Double-barrel=Kaksipiippuinen
+Double-barrel =Kaksipiippuinen
+Dust pan =Pölypannu
+Dust Pan =Pölypannu
+Dust pan=Pölypannu
+Dust Pan=Pölypannu
+
+Echo Scanner =Kaukoluotain
+Egg beater =Munavatkain
+Egg Beater =Munavatkain
+Egg beater=Munavatkain
+Egg Beater=Munavatkain
+Extension ladder =Jatkotikkaat
+Extension ladder=Jatkotikkaat
+
+Fancy lamp =Retrolamppu
+Fancy lamp=Retrolamppu
+Fancy ring =Sormus
+Fancy ring=Sormus
+Flashlight =Taskulamppu
+Flask=Kolvi
+Flask =Kolvi
+
+Gift =Lahja
+Gift box=Lahjapaketti
+Gift box =Lahjapaketti
+Gold bar =Kultaharkko
+Gold Bar =Kultaharkko
+Gold Bar=Kultaharkko
+Gold Bar=Kultaharkko
+Golden cup =Kultakuppi
+Golden cup=Kultakuppi
+
+Hair brush =Kampa
+Hair brush=Kampa
+Hairbrush =Kampa
+Hairbrush=Kampa
+Hairdryer =Hiustenkuivaaja
+Hairdryer=Hiustenkuivaaja
+Hive =Mehiläispesä
+Hive=Mehiläispesä
+Homemade flashbang=DYI Valokranaatti
+Homemade flashbang =DYI Valokranaatti
+
+#In Latin: Teleportteri
+Inverse Teleporter=Käänteisteleportteri
+Jack O' Lanter=Kurpitsalyhty
+Jar of pickles =Suolakurkkupurkki
+Jar of pickles=Suolakurkkupurkki
+
+# Back Jet
+Jetpack=Kantoraketti
+Key =Avain
+Key=Avain
+Comedy=Komedia
+Comedy =Komedia
+Large axle =Kampiakseli
+Large axle=Kampiakseli
+Laser pointer =laserosoitin
+Laser pointer=Laserosoitin
+
+Lockpicker =Tiirikoitsija
+Lockpicker=Tiirikoitsija 
+Loud horn=Torvi
+Loud horn =Torvi
+Magic ball =Taikapallo
+Magic ball=Taikapallo
+Magnifying glass =Suurennuslasi
+Magnifying glass=Suurennuslasi
+Metal sheet =Peltilevy
+Metal Sheet =Peltilevy
+Metal sheet=Peltilevy
+Metal Sheet=Peltilevy
+Mug =Muki
+Mug=Muki
+
+# N-R
+Old phone =Luuri
+Old phone=Luuri
+Painting =Maalaus
+Painting=Maalaus
+Perfume bottle =Perfuumi
+Perfume bottle=Perfuumi
+Pickle jar =Suolakurkkupurkki
+Pickle jar=Suolakurkkupurkki
+Pill Bottle =Pilleripurkki
+Pill Bottle=Pilleripurkki
+Pill bottle =Pilleripurkki
+Pill bottle=Pilleripurkki
+Plastic fish =Muovikala
+Plastic fish=Muovikala
+Pro-flashlight =Halogeenilamppu
+Pro-flashlight =Halogeenilamppu
+Pro-flashlight=Halogeenilamppu
+Pro-flashlight=Halogeenilamppu
+
+
+Radar-booster=Tutkavahvistin
+Radar-booster =Tutkavahvistin
+(Radar booster)=(Tutkavahvistin)
+Record Player=Levysoitin
+
+Red soda =Limonaati
+Red soda=Limonaati
+Remote =Kaukosäädin
+Remote=Kaukosäädin
+Ring =Sormus
+Robot Toy=Robottilelu
+Robot toy =Robottilelu
+Robot Toy =Robottilelu
+Robot toy=Robottilelu
+Romantic table=Romanttinen pöytä
+
+Rubber ducky =Kumiankka
+Rubber Ducky =Kumiankka
+Rubber ducky=Kumiankka
+r:"^Magic 7 ball(.*)"=Maaginen 7 pallo $1
+
+# S-Z
+Ship=Alus
+Shotgun=Haulikko
+Shotgun =Haulikko
+Shotgun shell=Hauli
+Shotgun shell =Hauli
+Shovel =Lapio
+Shovel=Lapio
+Shower=Suihkuhuone
+Signal Translator=Signaalikääntäjä
+Signal Transmitter=Signaalikääntäjä
+Signal translator=Signaalikääntäjä
+Signal transmitter=Signaalikääntäjä
+Sneakers =Lenkkarit
+Sneakers=Lenkkarit
+Spray paint =Spray-maali
+Spray paint=Spray-maali
+Steering wheel =Ohjauspyörä
+Steering Wheel =Ohjauspyörä
+Steering wheel=Ohjauspyörä
+Steering Wheel=Ohjauspyörä
+Sticky note =Muistilappu
+Stop sign =Stop-merkki
+Stop sign=Stop-merkki
+Stun grenade =Tainnutusgranaatti
+
+Table=Pöytä
+Tattered metal sheet =Repaleinen peltilevy
+Tattered metal sheet=Repaleinen peltilevy
+Tea kettle =Teepannu
+Tea kettle=Teepannu
+Tea Kettle=Teepannu
+Teleporter=Teleportteri
+Television=Televisio
+Toilet=Vessanpönttö
+Toothpaste =Hammastahna
+Toothpaste=Hammastahna
+Toy cube =Rubiikin kuutio
+Toy cube=Rubiikin kuutio
+Toy robot =Robotti lelu
+Toy robot=Robotti lelu
+Tragedy=Tragedia
+Tragedy =Tragedia
+TZP-Inhalant =TZP-inhalaattori
+
+Unnamed=Nimetön
+
+V-type engine =V-tyypin moottori
+V-type engine=V-tyypin moottori
+
+Walkie-talkie =Radiopuhelin
+Wedding ring =Vihkisormus
+Wedding ring =Vihkisormus
+Wedding ring=Vihkisormus
+Whoopie cushion=Pierutyyny
+
+Yield sign =Väistämismerkki
+
+Zap gun =Etälamautin
