@@ -1,7 +1,7 @@
 {
   "name": "VatusFinnishTranslation",
-  "version_number": "1.0.0",
-  "description": "[Translation] Suomi modi suomalaisille!",
-  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
-  "website_url": "https://github.com/MisterVaTu/Finnishtranslation"
+  "version_number": "1.0.8",
+  "description": "[Translation mod] Suomi modi suomalaisille!",
+  "website_url": "https://github.com/MisterVaTu/Finnishtranslation",
+  "dependencies": [ "BepInEx-BepInExPack-5.4.2100" ]
 }

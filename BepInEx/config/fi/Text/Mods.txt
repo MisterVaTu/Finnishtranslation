@@ -1,0 +1,24 @@
+#BetterLethality
+
+> Mods=> Modit
+Installed Mods=Ladatut modit
+
+#MoreCompany
+
+Cosmetics Enabled:=Kosmetiikat
+Crew Size:=Ryhmän koko
+
+#ShipLoot
+
+r:"^SHIP: (\$[0-9]+)$"=Rahan määrä: $1
+
+#MoreSuits
+
+Change: Smile=Vaihda: hymy
+Change: Skeleton=Vaihda: Luuranko
+Change: Slayer=Vaihda: Kukistaja
+Change: Minion=Vaihda: Pienentyjä
+Change: Mario=Vaihda: Mario
+Change: Luigi=Vaihda: Luigi
+Change: Kirby=Vaihda: Kirby
+Change: Knuckles=Vaihda: Rystyset

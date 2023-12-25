@@ -60,7 +60,7 @@ Mauling=Ryöstö
 * The most profitable=* Tuottoisin
 
 # N-Z
-New creature data sent to terminal!=Uutta olentotietoa tietopankissa!
+New creature data sent to terminal!=Uusi laji havaittu! Tallennetaan tietopankkiin.
 NEW PROFIT QUOTA:=UUSI TAVOITE:
 None=Ei mitään
 Notes: \n=Muistiinpanot: \n
@@ -94,7 +94,12 @@ r:"^(.*)\nAM"=Aamu $1
 r:"^(.*)\nPM"=Ilta $1
 r:"^(.+?)joined the ship(.+?)$"=$1 Liittyi alukseen $2
 r:"^Player: (.+)"=(Pelaaja: $1)
-r:"^(.+) (Days|Day) Left$"=$1 Päivää
+r:"^5 (Days|Day) Left$"=5 Päivää
+r:"^4 (Days|Day) Left$"=4 Päivää
+r:"^3 (Days|Day) Left$"=3 Päivää
+r:"^2 (Days|Day) Left$"=2 Päivää
+r:"^1 (Days|Day) Left$"=1 Päivä
+r:"^0 (Days|Day) Left$"=0 Päivää
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 Uhrit:$2\n $3 Palautettu
 r:"^(.+) started the ship."=$1 Käynnisti aluksen.
 r:"^(.+) was left behind."=$1 Jätettiin jälkeen.
@@ -109,7 +114,10 @@ r:"^Body of (.+)$"=$1 Ruumis
 r:"^Casualties \((.+)\): (.+)$"=Uhrit ($1):$2
 r:"^CELESTIAL BODY: (.+?)$"=TAIVAANKAPPALE: $1
 r:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps taken: (.+?)$"=Päiviä työssä: $1\nKerätyn romun arvo: $2\nKuolemat: $3\nAskeleita: $4
-r:"^DEADLINE:\n([0-9]+) Days$"=MÄÄRÄAIKA $1 Päivä
+r:"^DEADLINE:\\n([0,5,6,7,8,9]) Days$"=MÄÄRÄAIKA\n$1 Päivää
+r:"^DEADLINE:\\n([2,3,4]) Days$"=MÄÄRÄAIKA\n$1 Päivää
+r:"^DEADLINE:\\n([1]) Days$"=MÄÄRÄAIKA\n$1 Päivä
+DEADLINE:\n NOW=MÄÄRÄAIKA:\nNYT
 r:"^DUE: (\$[0-9]+)$"=SAKKO: $1
 r:"^File ([0-9]+)$"=Tall. $1
 r:"^MONITORING: (.+)$"=TARKKAILEE: $1
@@ -121,6 +129,8 @@ r:"^SHIP: (.+)$"=ALUS: $1
 r:"^TOTAL: (.+)$"=Brutto: $1
 r:"^Value: (.+)"=ARVO: $1
 r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=VAROITUS!\n Palaa viimeistään $1. Ylilautakunta on tehnyt päätöksen, jota ei voi pysäyttää.
+r:"^Kick out (.+?)?$"=Potkaise $1?
+
 
 Random seed: {{A}}=Arvottu siemen:{{A}}
 Random seed: =Arvottu siemen: 

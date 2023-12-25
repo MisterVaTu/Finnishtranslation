@@ -5,7 +5,8 @@
 [Cannot pull valve]=[Ei voi vetää]
 [Hands full]=[Kädet täynnä]
 [Nothing to store]=[Ei esinettä]
-Pull cord: [E] =Vedä: [E]
+Pull cord: [E] (Hold)=Vedä: [E] (Pidä)
+[Pulling cord]=[Vedetään]
 [Wait for ship to land]=[Odota]
 
 # A-M
@@ -39,7 +40,7 @@ Inspect: [Z]=Tarkastele: [Z]
 
 Land ship : [E]=Laske alus: [E]
 Let go : [E]=Päästä irti: [E]
-Lift glass : [E]=Nosta: [E]
+Lift glass : [E]=Nosta/Laske: [E]
 
 # N-Z
 Open : [E]=Avaa: [E]
@@ -75,13 +76,15 @@ Swing shovel : [LMB]=Heilauta: [LMB]
 Swing sign : [LMB]=Heilauta: [LMB]
 Switch camera : [E]=Vaihda: [E]
 Switch lights : [E]=Paina: [E]
+Switch water: [E]=Vaihda: [E]
+Switch TV: [E]=Vaihda tilaa: [E]
 
 Take TZP : [LMB]=Vedä kaasua: [LMB]
 Toggle light : [LMB]=Käytä: [LMB]
 Toggle laser : [LMB]=Käytä: [LMB]
 Toggle music : [LMB]=Käytä: [LMB]
 Turn on booster : [LMB]=Käynnistä: [LMB]
-Turn on/off : [E]=Paina: [E]
+Turn on/off : [E]=Käynnistä/sulje: [E]
 Turn safety on: [Q]=Varmista: [Q]
 Turn safety off: [Q]=Poista varmistin: [Q]
 Turn page : [Q/E]=Käännä sivu: [Q/E]
